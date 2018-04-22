@@ -21,3 +21,35 @@ composer create-project zendframework/zend-expressive-skeleton nome-so-seu-proje
 <p align="center">
   <img src="https://github.com/WalderlanSena/zend-expressive-documentation/blob/master/imagens/01.png" />
 </p>
+
+
+<h3>2° Selecione o tipo de gerenciador de dependência que deseja utilizar: </h3>
+
+<p align="center">
+  <img src="https://github.com/WalderlanSena/zend-expressive-documentation/blob/master/imagens/02.png" />
+</p>
+
+
+<h3>3° Selecione o gerenciador de rotas: </h3>
+
+<p align="center">
+  <img src="https://github.com/WalderlanSena/zend-expressive-documentation/blob/master/imagens/03.png" />
+</p>
+
+<h3>4° Selecione o motor de template para renderizar as suas views: </h3>
+
+<p align="center">
+  <img src="https://github.com/WalderlanSena/zend-expressive-documentation/blob/master/imagens/04.png" />
+</p>
+
+<h3>5° E caso deseje, selecione o pacote Whoops! Responsável por deixar mais amigavel possiveis erros apresentados na sua aplicação durante o processo de desenvolvimento: </h3>
+
+<p align="center">
+  <img src="https://github.com/WalderlanSena/zend-expressive-documentation/blob/master/imagens/05.png" />
+</p>
+
+<h3>6° Se você deseja que automaticamente as configurações dos pacotes selecionados sejas registrados: </h3>
+
+<p align="center">
+  <img src="https://github.com/WalderlanSena/zend-expressive-documentation/blob/master/imagens/06.png" />
+</p>
