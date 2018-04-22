@@ -9,7 +9,7 @@
     <img src="https://github.com/WalderlanSena/tagsGit/blob/master/License-GPLV3.svg">
 </p>
 
-# Exemplos disponives
+# :red_circle: Exemplos disponíveis
 
 <h3>:white_check_mark: <a href="https://github.com/WalderlanSena/zend-expressive-documentation/">1 - Criando o primeiro Middleware</a></h3>
 
