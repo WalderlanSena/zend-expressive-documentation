@@ -53,3 +53,5 @@ composer create-project zendframework/zend-expressive-skeleton nome-do-seu-proje
 <p align="center">
   <img src="https://github.com/WalderlanSena/zend-expressive-documentation/blob/master/imagens/06.png" />
 </p>
+
+<h2>ATENÇÃO: </h2> "As informações aqui contidas não substituem a documentação oficial do <strong>Zend Framework Expressive</strong>, o intúito desde repositório é compartilhar conhecimento de implementação e utilização da ferramenta, facilitado assim o entendimento dos leitores..."
